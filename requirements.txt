@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+azure.storage.blob
+pyodbc
+azure-cosmos
+azure-identity
